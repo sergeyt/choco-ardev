@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/sergeyt/choco-ardev</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Apps for ActiveReports development (VisualStudio2012Pro, TortoiseHg, Nuget.CommandLine, NAnt, Linqpad4,
-    Wix 3.5, NodeJS
+    Wix 3.5, NodeJS, dotPeek
     </description>
     <summary>Apps for ActiveReports development environment</summary>
     <copyright>2014</copyright>
@@ -23,6 +23,7 @@
       <dependency id="NuGet.CommandLine" />
       <dependency id="linqpad4" />
       <dependency id="nodejs" />
+      <dependency id="dotPeek" />
     </dependencies>
   </metadata>
 </package>
