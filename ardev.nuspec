@@ -16,14 +16,13 @@
     <copyright>2014</copyright>
     <tags>dev</tags>
     <dependencies>
-      <dependency id="VisualStudio2012Professional" />
-      <dependency id="TortoiseHg" />
-      <dependency id="NAnt" />
-      <dependency id="Wix35" />
-      <dependency id="NuGet.CommandLine" />
+      <dependency id="tortoisehg" />
+      <dependency id="nant" />
+      <dependency id="wix35" />
+      <dependency id="nuget.commandline" />
       <dependency id="linqpad4" />
       <dependency id="nodejs.install" />
-      <dependency id="dotPeek" />
+      <dependency id="dotpeek" />
     </dependencies>
   </metadata>
 </package>
