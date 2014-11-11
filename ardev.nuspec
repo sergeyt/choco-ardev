@@ -22,7 +22,7 @@
       <dependency id="Wix35" />
       <dependency id="NuGet.CommandLine" />
       <dependency id="linqpad4" />
-      <dependency id="nodejs" />
+      <dependency id="nodejs.install" />
       <dependency id="dotPeek" />
     </dependencies>
   </metadata>
