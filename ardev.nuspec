@@ -9,13 +9,12 @@
     <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
     <projectUrl>https://github.com/sergeyt/choco-ardev</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Apps for ActiveReports development (VisualStudio2012Pro, TortoiseHg, Nuget.CommandLine, NAnt, Linqpad4,
-    Wix 3.5, NodeJS, dotPeek
-    </description>
-    <summary>Apps for ActiveReports development environment</summary>
+    <description>Apps for ActiveReports development</description>
+    <summary>Apps for ActiveReports development</summary>
     <copyright>2014</copyright>
     <tags>dev</tags>
     <dependencies>
+      <dependency id="git" />
       <dependency id="tortoisehg" />
       <dependency id="nant" />
       <dependency id="wix35" />
@@ -23,6 +22,8 @@
       <dependency id="linqpad4" />
       <dependency id="nodejs.install" />
       <dependency id="dotpeek" />
+      <dependency id="far" />
+      <dependency id="VirtualCloneDrive" />
     </dependencies>
   </metadata>
 </package>
