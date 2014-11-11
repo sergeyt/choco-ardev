@@ -1,4 +1,3 @@
-choco-ardev
-===========
+# choco-ardev
 
-Chocolatey installer for ActiveReports development environment
+Chocolatey package of ActiveReports dev tools.
