@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>ardev</id>
-    <version>0.2.0.0</version>
+    <version>0.3.0.0</version>
     <title>ActiveReports must-have dev tools</title>
     <authors>Sergey Todyshev</authors>
     <owners>Sergey Todyshev</owners>
@@ -17,7 +17,7 @@
       <dependency id="dotnet3.5" />
       <dependency id="dotnet4.5" />
       <dependency id="git" />
-      <dependency id="tortoisehg" />
+      <dependency id="hg" />
       <dependency id="nant" />
       <dependency id="wix35" />
       <dependency id="nodejs.install" />

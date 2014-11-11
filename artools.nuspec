@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>artools</id>
-    <version>0.2.0.0</version>
+    <version>0.3.0.0</version>
     <title>ActiveReports extra dev tools</title>
     <authors>Sergey Todyshev</authors>
     <owners>Sergey Todyshev</owners>
@@ -15,6 +15,7 @@
     <tags>dev</tags>
     <dependencies>
       <dependency id="ardev" />
+      <dependency id="tortoisehg" />
       <dependency id="7zip" />
       <dependency id="putty" />
       <dependency id="linqpad4" />
